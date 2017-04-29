@@ -1,4 +1,6 @@
 # May 2017
+<link> href="/style.css" type="text/css" rel="stylesheet"
+</link>
 <table cellspacing="0" cellpadding="0" border="1">
 <tr>
   <td width="100" align="center"></td>

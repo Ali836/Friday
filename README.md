@@ -1,6 +1,6 @@
 # May 2017
 <link><div id="calendar"></div>
-<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.5.1/moment.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.5.1/moment.min.js"><script>
 </link>
 <table cellspacing="0" cellpadding="0" border="1">
 <tr>
